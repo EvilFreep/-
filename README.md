@@ -6,8 +6,8 @@
   2.Возможность выставлять оценку фильму по 10-ти балльной шкале
   3.Возможность остовлять рецензию/коментарий у фмльму
 # Подобные примеры
-1.My anime list https://myanimelist.net/
-2.Кинопоиск https://www.kinopoisk.ru/
+  1.My anime list https://myanimelist.net/
+  2.Кинопоиск https://www.kinopoisk.ru/
 # Технологии
 -
 # MVP
